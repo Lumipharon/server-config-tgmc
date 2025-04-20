@@ -110,7 +110,7 @@ LOG_RUNTIME
 LOG_MANIFEST
 LOG_JOB_DEBUG
 
-INVOKE_YOUTUBEDL yt-dlp
+INVOKE_YOUTUBEDL youtube-dl
 
 ## Comment this out to disable users ability to use the request internet sounds to be played.
 REQUEST_INTERNET_SOUND
